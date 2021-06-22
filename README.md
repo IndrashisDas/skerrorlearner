@@ -3,7 +3,7 @@
 ![Skerrorlearner Logo](https://github.com/IndrashisDas/skerrorlearner/blob/main/Assets/Asset%2013.png)
 ```skerrorlearner``` is an **Error Learning Package** for Machine Learning use cases. It is **available for both Regression and Classification problems under Supervised Machine Learning**. This helps build models that **learn the error of the current model** being built. This approach is taken towards **Machine Learning Model Performance Improvement**.
 
-### Authored & Maintained By - Indrashis Das
+### Authored & Maintained By - <span style="color:blue"> Indrashis Das </span>
 <a href="https://www.linkedin.com/in/indrashis-das-ab8434141/"><img src="https://github.com/IndrashisDas/skerrorlearner/blob/main/Assets/Asset%201.png" width="35"></a>  <a href="https://www.researchgate.net/profile/Indrashis-Das"><img src="https://github.com/IndrashisDas/skerrorlearner/blob/main/Assets/Asset%204.png" width="35"></a>  <a href="https://github.com/IndrashisDas"><img src="https://github.com/IndrashisDas/skerrorlearner/blob/main/Assets/Asset%205.png" width="35"></a>   <a href="https://www.facebook.com/indrashis.das.7/"><img src="https://github.com/IndrashisDas/skerrorlearner/blob/main/Assets/Asset%202.png" width="35"></a>   <a href="https://www.instagram.com/an_unique_outlier/"><img src="https://github.com/IndrashisDas/skerrorlearner/blob/main/Assets/Asset%203.png" width="35"></a> 
 
 ### Download Stats
