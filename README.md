@@ -50,4 +50,22 @@ GradientBoost |
 
 #### Classification Use Case
 
+Scikit Learn | Non-Scikit Learn
+------------ | -------------
+Logistic Regression | XGBoost
+Support Vector Machine | LightGBM
+Decision Tree | CatBoost
+Random Forest | 
+K-Nearest Neighbors | 
+AdaBoost | 
+GradientBoost | 
+GaussianNB | 
+
+#### Advantages
+
+* Supports Hackathon Data Prediction
+* Supports Production Live Data Prediction
+
+
+
 #### Journal to be out soon! :smiley:
