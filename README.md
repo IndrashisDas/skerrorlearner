@@ -32,4 +32,4 @@ Further, if you fork the [Skerrorlearner Use Case Demo](https://github.com/Indra
 
 Once you have foked the library, we'd highly recommend you to read the dockstring of each method falling under skerrorlearner package to know what parameters are to be passed and what is the use of the method.
 
-
+#### Journal to be out soon! :smiley:
