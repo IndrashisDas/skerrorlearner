@@ -68,4 +68,4 @@ GaussianNB |
 
 #### Journal to be out soon! :smiley:
 
-#### If you like the library, you can hit the start icon to show your love and support :heartpulse: :v: :love_you_gesture:
+#### If you like the library, you can hit the star icon to show your love and support :heartpulse: :v: :love_you_gesture:
