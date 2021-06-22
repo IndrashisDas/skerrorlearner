@@ -1,7 +1,7 @@
 # skerrorlearner
 
 ![Skerrorlearner Logo](https://github.com/IndrashisDas/skerrorlearner/blob/main/Assets/Asset%2013.png)
-```skerrorlearner``` is a **Error Learning Package** for Machine Learning use cases. It is **available for both Regression and Classification problems** under Supervised Machine Learning. This helps build models that learn the error of the current model being built. This approach is taken towards **Machine Learning Model Performance Improvement**.
+```skerrorlearner``` is an **Error Learning Package** for Machine Learning use cases. It is **available for both Regression and Classification problems under Supervised Machine Learning**. This helps build models that **learn the error of the current model** being built. This approach is taken towards **Machine Learning Model Performance Improvement**.
 
 ### Download Stats
 
@@ -31,5 +31,23 @@ As we highly believe in hands-on, rather than reading documentations, hence we h
 Further, if you fork the [Skerrorlearner Use Case Demo](https://github.com/IndrashisDas/skerrorlearner/tree/main/Skerrorlearner%20Use%20Case%20Demo), you'll be able to get the data on top of which skerrorlearner was tested. You'll also be able to get the .ipynb notebook to understand how the library works.
 
 Once you have foked the library, we'd highly recommend you to read the dockstring of each method falling under skerrorlearner package to know what parameters are to be passed and what is the use of the method.
+
+### Support & Advantages
+
+The library supports below algorithms to build Error Models.
+
+#### Regression Use Case
+
+Scikit Learn | Non-Scikit Learn
+------------ | -------------
+Linear Regression | XGBoost
+Support Vector Machine | LightGBM
+Decision Tree | 
+Random Forest | 
+K-Nearest Neighbors | 
+AdaBoost | 
+GradientBoost | 
+
+#### Classification Use Case
 
 #### Journal to be out soon! :smiley:
