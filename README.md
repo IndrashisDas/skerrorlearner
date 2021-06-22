@@ -6,3 +6,7 @@
 ### Download Stats
 
 [![Downloads](https://static.pepy.tech/personalized-badge/skerrorlearner?period=total&units=international_system&left_color=black&right_color=orange&left_text=Total%20Downloads)](https://pepy.tech/project/skerrorlearner) [![Downloads](https://static.pepy.tech/personalized-badge/skerrorlearner?period=month&units=international_system&left_color=black&right_color=orange&left_text=Monthly%20Downloads)](https://pepy.tech/project/skerrorlearner) [![Downloads](https://static.pepy.tech/personalized-badge/skerrorlearner?period=week&units=international_system&left_color=black&right_color=orange&left_text=Weekly%20Downloads)](https://pepy.tech/project/skerrorlearner)
+
+### Installation
+
+You can use [pip](https://pypi.org/project/skerrorlearner/) to install skerrorlearner.
