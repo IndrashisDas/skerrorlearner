@@ -66,6 +66,6 @@ GaussianNB |
 * Supports Hackathon Data Prediction
 * Supports Production Live Data Prediction
 
-
-
 #### Journal to be out soon! :smiley:
+
+#### If you like the library, you can hit the start icon to show your love and support :heartpulse: :v: :love_you_gesture:
