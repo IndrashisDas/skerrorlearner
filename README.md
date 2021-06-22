@@ -9,4 +9,8 @@
 
 ### Installation
 
-You can use [pip](https://pypi.org/project/skerrorlearner/) to install skerrorlearner.
+You can use [pip](https://pypi.org/project/skerrorlearner/) to install skerrorlearner. Copy the below command and paste in Command Prompt to install skerrorlearner.
+```pip install skerrorlearner```
+
+To upgrade the package, copy the below command and paste in Command Prompt to upgrade skerrorlearner.
+```pip install skerrorlearner --upgrade```
