@@ -1,7 +1,7 @@
 # skerrorlearner
-Error Learning Package for Machine Learning
 
 ![Image of Yaktocat](https://github.com/IndrashisDas/skerrorlearner/blob/main/Assets/Asset%2013.png)
+```skerrorlearner``` is a Error Learning Package for Machine Learning use cases. It is available for both Regression and Classification problems under Supervised Machine Learning.
 
 ### Download Stats
 
