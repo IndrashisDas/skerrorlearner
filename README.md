@@ -9,6 +9,8 @@
 
 ### Installation
 
+#### Latest Version | skerrorlearner 0.1.40
+
 You can use [pip](https://pypi.org/project/skerrorlearner/) to install skerrorlearner. Copy the below command and paste in Command Prompt to install skerrorlearner.
 ```
 pip install skerrorlearner
