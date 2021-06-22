@@ -23,12 +23,12 @@ pip install skerrorlearner --upgrade
 
 ### Usage
 
-As we highly believe in hands-on, rather than reading documentations, hence we have got usage guides in the form of .ipynb notebooks, because .ipynb notebooks are the best way to learn and practice. Below are the linked useage guides.
+As we highly believe in hands-on rather than reading documentations, we have got usage guides in the form of .ipynb notebooks, because .ipynb notebooks are the best way to learn and practice. Below are the linked useage guides.
 
 * [Regression Use Case](https://github.com/IndrashisDas/skerrorlearner/blob/main/Skerrorlearner%20Use%20Case%20Demo/Skerrorlearner%20-%20Regression%20Use%20Case%20Demo/Skerrorlearner%20-%20Regression%20Use%20Case%20Demo.ipynb)
 * [Classification Use Case](https://github.com/IndrashisDas/skerrorlearner/blob/main/Skerrorlearner%20Use%20Case%20Demo/Skerrorlearner%20-%20Classification%20Use%20Case%20Demo/Skerrorlearner%20-%20Classification%20Use%20Case%20Demo.ipynb)
 
-Further, if you fork the [Skerrorlearner Use Case Demo](https://github.com/IndrashisDas/skerrorlearner/tree/main/Skerrorlearner%20Use%20Case%20Demo), you'll be able to get the data on top of which skerrorlearner was tested. You'll also be able to get the .ipynb notebook to understand how the library works.
+Further, if you fork the [Skerrorlearner Use Case Demo](https://github.com/IndrashisDas/skerrorlearner/tree/main/Skerrorlearner%20Use%20Case%20Demo) directory, you'll be able to get the data on top of which skerrorlearner was tested. You'll also be able to get the .ipynb notebook to understand how the library works.
 
 Once you have foked the library, we'd highly recommend you to read the dockstring of each method falling under skerrorlearner package to know what parameters are to be passed and what is the use of the method.
 
