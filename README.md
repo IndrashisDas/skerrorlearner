@@ -26,7 +26,7 @@ pip install skerrorlearner --upgrade
 
 ### Usage
 
-As we highly believe in hands-on rather than reading documentations, we have got usage guides in the form of .ipynb notebooks, because .ipynb notebooks are the best way to learn and practice. Below are the linked useage guides.
+As we highly believe in hands-on rather than reading documentations, we have got usage guides in the form of .ipynb notebooks. Below are the linked usage guides.
 
 * [Regression Use Case](https://github.com/IndrashisDas/skerrorlearner/blob/main/Skerrorlearner%20Use%20Case%20Demo/Skerrorlearner%20-%20Regression%20Use%20Case%20Demo/Skerrorlearner%20-%20Regression%20Use%20Case%20Demo.ipynb)
 * [Classification Use Case](https://github.com/IndrashisDas/skerrorlearner/blob/main/Skerrorlearner%20Use%20Case%20Demo/Skerrorlearner%20-%20Classification%20Use%20Case%20Demo/Skerrorlearner%20-%20Classification%20Use%20Case%20Demo.ipynb)
