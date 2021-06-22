@@ -1,7 +1,7 @@
 # skerrorlearner
 
-![Image of Yaktocat](https://github.com/IndrashisDas/skerrorlearner/blob/main/Assets/Asset%2013.png)
-```skerrorlearner``` is a Error Learning Package for Machine Learning use cases. It is available for both Regression and Classification problems under Supervised Machine Learning.
+![Skerrorlearner Logo](https://github.com/IndrashisDas/skerrorlearner/blob/main/Assets/Asset%2013.png)
+```skerrorlearner``` is a **Error Learning Package** for Machine Learning use cases. It is **available for both Regression and Classification problems** under Supervised Machine Learning. This helps build models that learn the error of the current model being built. This approach is taken towards **Machine Learning Model Performance Improvement**.
 
 ### Download Stats
 
@@ -20,3 +20,13 @@ To upgrade the package, copy the below command and paste in Command Prompt to up
 ```
 pip install skerrorlearner --upgrade
 ```
+
+### Usage
+
+As we highly believe in hands-on, rather than reading documentations, hence we have got usage guides in the form of .ipynb notebooks. Because .ipynb notebooks are the best way to learn and practice. Below are the linked useage guides.
+
+* [Regression Use Case](https://github.com/IndrashisDas/skerrorlearner/blob/main/Skerrorlearner%20Use%20Case%20Demo/Skerrorlearner%20-%20Regression%20Use%20Case%20Demo/Skerrorlearner%20-%20Regression%20Use%20Case%20Demo.ipynb)
+* [Classification Use Case](https://github.com/IndrashisDas/skerrorlearner/blob/main/Skerrorlearner%20Use%20Case%20Demo/Skerrorlearner%20-%20Classification%20Use%20Case%20Demo/Skerrorlearner%20-%20Classification%20Use%20Case%20Demo.ipynb)
+
+
+
