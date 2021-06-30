@@ -1,4 +1,4 @@
-<img src="https://github.com/IndrashisDas/skerrorlearner/blob/main/Assets/Asset%2013.png" width="500">
+<img src="https://github.com/IndrashisDas/skerrorlearner/blob/main/Assets/Asset%2013.png" width="800">
 
 <img src="https://github.com/IndrashisDas/skerrorlearner/blob/main/Assets/Skerrorlearner.gif" width="800">
 
